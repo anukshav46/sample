@@ -1,2 +1,2 @@
 # sample
-This is a sample repo created to get hands on experience with github.
+This is a sample repo created to get hands-on experience with Git Hub.
