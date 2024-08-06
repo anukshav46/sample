@@ -3,7 +3,7 @@
 #include<iostream>
 int main(){
   int a,b;
-  std::cin>>a;
-  b = 5;
+  std::cin>>b;
+  a = 5;
   std::cout<<"a + b = "<<a+b ;
 }
