@@ -4,6 +4,6 @@
 int main(){
   int a,b;
   std::cin>>a;
-  b = 3;
+  b = 5;
   std::cout<<"a + b = "<<a+b ;
 }
